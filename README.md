@@ -1,35 +1,49 @@
-<h1 align="center">⚡ Yo, I'm Muji ⚡</h1>
-<h3 align="center">13 y/o Developer | Builder | Dreamer 🚀</h3>
+<h1 align="center">⚡ Welcome to My Playground ⚡</h1>
+<h3 align="center">🚀 I'm Muji — 13 y/o Full-Stack Wizard from Thailand 🧑‍💻</h3>
+
+```
+        __  ___       _     _            
+       /  |/  /___ __(_)___(_)___  ____ _
+      / /|_/ / __ `/ / __/ / __ \/ __ `/
+     / /  / / /_/ / / /_/ / / / / /_/ /
+    /_/  /_/\__,_/_/\__/_/_/ /_/\__, /  
+                               /____/   
+```
 
 ---
 
-### 🧑‍💻 About Me
-- 🚀 Full-stack dev who started coding since **Grade 4**
-- 🔥 Passionate about **Web Dev, Bots, Automation, AI**
-- ⚡ Love building cool projects and deploying them to the real world
-- 🌍 From Thailand with a vision to go global
+### 🐉 Why I'm Different
+
+* 🤯 Started coding at **9 years old**
+* ⚡ Mastering **Web, Bots, Hosting, AI, Automation** before high school
+* 🚀 Deploying real-world projects while others just play games
+* 💡 Building things people say “Impossible for a kid”
 
 ---
 
-### 🔧 Tech Arsenal
+### 🛠️ Tech Stack of a 13 y/o Dev
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,react,nextjs,php,sqlite,tailwind,html,css,vscode,vercel,cloudflare,github" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,nextjs,php,sqlite,tailwind,vercel,cloudflare,vscode,github" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My Stats (How tf a kid does this?)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mujidevz&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mujidevz&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mujidevz&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mujidevz&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
-### 🌐 Connect With Me
-- 💌 Email: **mujidev@outlook.co.th**
-- 🌍 Website: [minmimuji.xyz](https://minmimuji.xyz)
+### 🌍 Contact Me
+
+* 💌 Email: **[mujidev@minmimuji.xyz](mailto:mujidev@minmimuji.xyz)**
+* 🌐 Website: [minmimuji.xyz](https://minmimuji.xyz)
+* 🎮 Discord: `mujidev#xxxx`
 
 ---
 
-<h3 align="center">⭐️ “Building my own empire, one line of code at a time.” ⭐️</h3>
+<h3 align="center">🔥 “Remember me. I'm that kid who built an empire from a bedroom.” 🔥</h3>
